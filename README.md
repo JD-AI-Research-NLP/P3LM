@@ -1,5 +1,5 @@
 # ![](http://latex.codecogs.com/svg.latex?P^2DeNet)
-The code for the EMNLP2021 paper：[P2DeNet:_Permutation over Prophet Decoding Net for Generative Pre-training]()
+The code for the EMNLP2021 paper：[P2DeNet: Permutation over Prophet Decoding Net for Generative Pre-training]()
 ![image](https://user-images.githubusercontent.com/14817331/120296613-e1276500-c2fa-11eb-883d-b3a1f0db76c9.png)
 
 

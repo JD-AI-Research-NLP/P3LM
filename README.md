@@ -7,10 +7,10 @@ python==3.6.8
 pytorch==1.5.0+cu101
 
 ## GLGE Data:
-[download](https://microsoft.github.io/glge/) 
+[download here](https://microsoft.github.io/glge/) 
 
 ## Pretrained Model and Reported Results:
-[download](xxx)
+[download here](xxx)
 
 ## Reproduce the Reported Results:
 1. Pre-process the GLGE data and put it in the ./P2DeNet/glge/ folder.

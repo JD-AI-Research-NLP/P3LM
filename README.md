@@ -26,8 +26,7 @@ python finetune.generation.py train \[DATASET\]
 ```
 
 ## Our Results
-![image](![glge result](https://user-images.githubusercontent.com/14817331/120298865-05844100-c2fd-11eb-890d-a5410d846df8.png)
-)
+![image](https://user-images.githubusercontent.com/14817331/120298865-05844100-c2fd-11eb-890d-a5410d846df8.png)
 
 ## Reference:
 Thanks for your citation:

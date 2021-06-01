@@ -6,8 +6,7 @@ The code for the EMNLP2021 paper：[P2DeNet: Permutation over Prophet Decoding N
 ## Requirements
 1. python==3.6.8
 2. pytorch==1.5.0+cu101
-3. 
-4. 
+
 ## GLGE Data
 [download here](https://microsoft.github.io/glge/) 
 

@@ -1,11 +1,13 @@
-# P2DeNet
-The code for the EMNLP2021 paper：[P^2DeNet: Permutation over Prophet Decoding Net for Generative Pre-training](XXX)
+# ![](http://latex.codecogs.com/svg.latex?P^2DeNet)
+The code for the EMNLP2021 paper：[P2DeNet:_Permutation over Prophet Decoding Net for Generative Pre-training]()
 ![image](https://user-images.githubusercontent.com/14817331/120296613-e1276500-c2fa-11eb-883d-b3a1f0db76c9.png)
+
 
 ## Requirements
 1. python==3.6.8
 2. pytorch==1.5.0+cu101
-
+3. 
+4. 
 ## GLGE Data
 [download here](https://microsoft.github.io/glge/) 
 

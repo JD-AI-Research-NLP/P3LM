@@ -1,6 +1,6 @@
 # P<sup>3</sup>LM
 The code for the EMNLP2022(Findings) paper：[P<sup>3</sup>LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training](https://aclanthology.org/2022.findings-emnlp.496.pdf)
-![image](https://github.com/JD-AI-Research-NLP/P3LM/blob/main/P3LM.pdf)
+![image](https://github.com/JD-AI-Research-NLP/P3LM/blob/main/P3LM.png)
 
 
 ## Requirements
